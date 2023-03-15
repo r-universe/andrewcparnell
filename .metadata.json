@@ -1,10 +1,10 @@
 [
   {
-    "package": "simmr",
+    "package": "Bchron",
     "oncran": true
   },
   {
-    "package": "Bchron",
+    "package": "simmr",
     "oncran": true
   }
 ]

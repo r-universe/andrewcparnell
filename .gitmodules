@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "simmr"]
-	path = simmr
-	url = https://github.com/andrewcparnell/simmr
-	shallow = true
-	registered = true
 [submodule "Bchron"]
 	path = Bchron
 	url = https://github.com/andrewcparnell/bchron
+	shallow = true
+	registered = true
+[submodule "simmr"]
+	path = simmr
+	url = https://github.com/andrewcparnell/simmr
 	shallow = true
 	registered = true
