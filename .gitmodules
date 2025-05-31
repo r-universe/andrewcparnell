@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "Bchron"]
-	path = Bchron
-	url = https://github.com/andrewcparnell/bchron
 [submodule "simmr"]
 	path = simmr
 	url = https://github.com/andrewcparnell/simmr
